@@ -1,0 +1,15 @@
+.Home .lander {
+  padding: 100px ;
+  text-align: center;
+  border: 1px;
+}
+
+.Home .lander h1 b {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+
+}
+.Home{
+  border: 1px;
+}
+
